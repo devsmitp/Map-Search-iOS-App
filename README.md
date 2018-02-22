@@ -2,5 +2,5 @@
 Simple Map Search Swift App
 
 
-![Optional Text](../master/Resources/Location_view.png)
-![Optional Text](../master/Resources/Search_View.png)
+![Optional Text](../master/img/Location_view.png)
+![Optional Text](../master/img/Search_View.png)
